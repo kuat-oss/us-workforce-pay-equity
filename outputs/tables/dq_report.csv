@@ -1,0 +1,11 @@
+check_name,dataset,issue_rows,action_taken
+Missing female or male median earnings,jobs_gender (ACS),69,Excluded from pay-gap ranking (is_reliable = FALSE)
+Fewer than 10k men or women in occupation,jobs_gender (ACS),934,Excluded from pay-gap ranking (is_reliable = FALSE)
+Male + female workers <> total workers,jobs_gender (ACS),0,Logged only (reconciliation check)
+Duplicate year + occupation keys,jobs_gender (ACS),0,Logged only
+Missing quarters in 2010-2020 series,earn (BLS CPS),0,Logged only (expect 0)
+NULL median weekly earnings,earn (BLS CPS),0,Logged only (expect 0)
+NULL industry name,employed (BLS CPS),330,Dropped in staging
+Demographic label in industry column (shifted rows),employed (BLS CPS),330,Dropped in staging
+Line breaks inside industry name,employed (BLS CPS),132,Whitespace normalized in staging
+Sub-industry rows (would double count parent sector),employed (BLS CPS),2376,Excluded; analysis uses 13 top-level sectors

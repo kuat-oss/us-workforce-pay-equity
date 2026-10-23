@@ -1,0 +1,22 @@
+list,occupation,major_category,total_workers,percent_female,median_earnings_male,median_earnings_female,pay_ratio,annual_gap_usd,rnk
+Widest gap,"Securities, commodities, and financial services sales agents",Sales and Office,199539,28.414996567087137,115432,58726,50.9,56706,1
+Widest gap,"Financial clerks, all other",Sales and Office,102650,53.391134924500726,80037,45021,56.3,35016,2
+Widest gap,Financial managers,"Management, Business, and Financial",1067163,52.578190960518675,100505,62089,61.8,38416,3
+Widest gap,"Judges, magistrates, and other judicial workers","Education, Legal, Community Service, Arts, and Media",58544,43.65605356654824,125071,80807,64.6,44264,4
+Widest gap,Credit counselors and loan officers,"Management, Business, and Financial",292543,54.80903662025754,76686,50325,65.6,26361,5
+Widest gap,"Production, planning, and expediting clerks",Sales and Office,283387,57.276092410731614,61813,40678,65.8,21135,6
+Widest gap,Retail salespersons,Sales and Office,1716984,38.96687447291296,40116,26781,66.8,13335,7
+Widest gap,Database administrators,"Computer, Engineering, and Science",99602,37.43197927752455,90749,60838,67.0,29911,8
+Widest gap,Insurance sales agents,Sales and Office,442385,47.44035172982809,62412,42316,67.8,20096,9
+Widest gap,Machinists,"Production, Transportation, and Material Moving",297165,4.324196994935474,47139,32065,68.0,15074,10
+Narrowest gap,"First-line supervisors of protective service workers, all other",Service,66575,25.284265865565153,46609,54717,117.4,-8108,1
+Narrowest gap,"Meeting, convention, and event planners","Management, Business, and Financial",96349,74.97016056212311,42729,47221,110.5,-4492,2
+Narrowest gap,"Transportation, storage, and distribution managers","Management, Business, and Financial",222794,18.009012810039767,52318,54796,104.7,-2478,3
+Narrowest gap,Medical records and health information technicians,Healthcare Practitioners and Technical,148302,89.92731048805815,37208,38404,103.2,-1196,4
+Narrowest gap,Phlebotomists,Service,82446,84.7657860902894,30925,31160,100.8,-235,5
+Narrowest gap,"Wholesale and retail buyers, except farm products","Management, Business, and Financial",139871,49.17602648154371,41612,41637,100.1,-25,6
+Narrowest gap,"Computer, automated teller, and office machine repairers","Natural Resources, Construction, and Maintenance",145593,10.745022082105596,43659,43673,100.0,-14,7
+Narrowest gap,Architectural and engineering managers,"Management, Business, and Financial",144812,8.87771731624451,130300,130255,100.0,45,7
+Narrowest gap,Industrial truck and tractor operators,"Production, Transportation, and Material Moving",501490,7.187780414365191,32305,32272,99.9,33,9
+Narrowest gap,Probation officers and correctional treatment specialists,"Education, Legal, Community Service, Arts, and Media",81680,53.66185112634672,48620,48480,99.7,140,10
+Narrowest gap,Massage therapists,Service,67798,75.36947992566152,30833,30739,99.7,94,10
