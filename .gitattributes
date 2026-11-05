@@ -1,0 +1,5 @@
+# count SQL in the language stats (GitHub skips it by default)
+*.sql linguist-detectable=true
+# the dashboard is presentation, not the core of the project
+dashboard/** linguist-documentation
+index.html linguist-documentation
